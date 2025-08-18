@@ -6,8 +6,8 @@
         {
             Console.WriteLine("Wello, Horld!");
 
-            int a = 200;
-            int b = 300;
+            int a = 2000;
+            int b = 3000;
             int summe = MyMath.Add(a, b);
             Console.WriteLine($"Die Summe von {a} und {b} = {summe}");
 
